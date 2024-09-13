@@ -1,10 +1,10 @@
-## Bom dia meus caros, sou o Yohan 👋
+## Bom dia meus Caros, sou o Yohan 👋
 
 -📚 Estudo informatica no Cedup
 
 -☕Amo tomar café
 
--⛹️‍♀️Quer me dar um presente me de algo de basquete, pode ser regatas 
+-⛹️‍♀️Quer me dar um presente me faça um pix ou me de alo sobre basquete
   
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yh4n&theme=radical&show_icons=true)
