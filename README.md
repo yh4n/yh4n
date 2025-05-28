@@ -1,4 +1,4 @@
-## Bom dia meus Caros, sou o Yohan 👋
+## Bom dia meus Nobres, sou o Yohan 👋
 
 -📚 Estudo informatica no Cedup
 
