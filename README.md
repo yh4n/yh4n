@@ -2,8 +2,6 @@
 
 ###
 
-<br clear="both">
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java" height="80" alt="java logo"  />
   <img width="10" />
