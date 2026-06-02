@@ -3,17 +3,17 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java" height="80" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="80" alt="java logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=css" height="80" alt="css logo"  />
+  <img src="https://cdn.simpleicons.org/css/1572B6" height="80" alt="css logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=html" height="80" alt="html5 logo"  />
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="80" alt="html5 logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=js" height="80" alt="javascript logo"  />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="80" alt="javascript logo"  />
   <img width="10" />
   <img src="https://cdn.simpleicons.org/php/777BB4" height="80" alt="php logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="80" alt="mysql logo"  />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="80" alt="mysql logo"  />
   <img width="10" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="80" alt="tailwindcss logo"  />
   <img width="10" />
@@ -21,7 +21,7 @@
   <img width="10" />
   <img src="https://cdn.simpleicons.org/vite/646CFF" height="80" alt="vite logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=git" height="80" alt="git logo"  />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="80" alt="git logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=github" height="80" alt="github logo"  />
 </div>
